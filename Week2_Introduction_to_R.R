@@ -171,3 +171,9 @@ df_either <- df[df$geburtsjahr_hund > 2012 | df$hundefarbe == "schwarz",]
 nrow(df_either)
 
 
+#homework excercises
+#create a dataframe with all the beige dogs
+#what are the unique breeds of beige dogs? which three of them are the most popular?
+
+#create a dataframe with all female black dogs whose owners are older than 50 years old
+#save this dataframe as a csv file
