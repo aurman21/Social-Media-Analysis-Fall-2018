@@ -121,7 +121,7 @@ head(df)
 
 # Variable names
 names(df)
-# ï..HALTER_ID - owner id
+# Ã¯..HALTER_ID - owner id
 # ALTER - owner's age
 # GESCHLECHT - owner's sex
 # STADTKREIS - city region
